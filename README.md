@@ -1,10 +1,14 @@
-### Hi there 👋
+## Hi Welcome, I'm JISOO YOON 👋
+📫 How to reach me
+<a href="https://velog.io/@yoonmallang"><img src="https://img.shields.io/badge/Blog-f2f2f2?style=flat-square&logo=Velog&logoColor=20C997"/></a> <a href="mailto:yoonmallang@gmail.com"><img src="https://img.shields.io/badge/Email-f2f2f2?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
+
+### 🛠️ Skills
+<img src="https://img.shields.io/badge/React-f2f2f2?style=flat-square&logo=React&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React Query-f2f2f2?style=flat-square&logo=React Query&logoColor=FF4154"/> <img src="https://img.shields.io/badge/JavaScript-f2f2f2?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-f2f2f2?style=flat-square&logo=HTML5&logoColor=E34F26"/> <img src="https://img.shields.io/badge/CSS3-f2f2f2?style=flat-square&logo=CSS3&logoColor=1572B6"/> <img src="https://img.shields.io/badge/Git-f2f2f2?style=flat-square&logo=Git&logoColor=F05032"/>
+
+### 💬 Communication
+<img src="https://img.shields.io/badge/GitHub-f2f2f2?style=flat-square&logo=GitHub&logoColor=181717"/> <img src="https://img.shields.io/badge/Figma-f2f2f2?style=flat-square&logo=Figma&logoColor=F24E1E"/>
 
 <!--
-**yoonmallang22/yoonmallang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
