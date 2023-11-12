@@ -1,4 +1,6 @@
 ## Hi Welcome, I'm JISOO YOON 👋
+🌱 I'm currently studying to be a front-end developer
+
 📫 How to reach me
 <a href="https://velog.io/@yoonmallang"><img src="https://img.shields.io/badge/Blog-f2f2f2?style=flat-square&logo=Velog&logoColor=20C997"/></a> <a href="mailto:yoonmallang@gmail.com"><img src="https://img.shields.io/badge/Email-f2f2f2?style=flat-square&logo=Gmail&logoColor=EA4335"/></a>
 
